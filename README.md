@@ -1,4 +1,4 @@
-<h1 align="center">CAM-DUMPER</h1>
+<h1 align="center">SOMUK</h1>
 <p align="center"><img src="Somuk.jpg" max-width="90%%" height="auto"></p>
 <p align="center">Take webcam shots from target by just sending a malicious link</p>
 
